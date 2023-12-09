@@ -2,6 +2,8 @@
 <img src="https://tutulhaque.me/wp-content/uploads/2023/12/tutul-banner-2.png">
 
 <h3>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>My name is Md Saifuddullah Tutul.</h3>
+
+<p>I am a front-end developer passionate about crafting delightful digital experiences. My expertise spans across HTML, CSS, JavaScript, React, Node.js, and MongoDB. I thrive on building intuitive and responsive web applications that engage and inspire users.</p>
 <hr>
 <br>
 <img align="right" alt="Coding" width="400" src="https://tutulhaque.me/wp-content/uploads/2023/12/side.gif">
@@ -32,7 +34,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tutulhaque&theme=dark&hide_border=true)<br/>
 
 # 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tutulhaque&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=tutulhaque&sort=DESC&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
