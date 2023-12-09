@@ -1,23 +1,37 @@
-<!-- Your Banner -->
-Add Your Banner Image Here
+<h1 align="center">Hi 👋, I'm Md Saifuddullah Tutul</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-## Hi there, I'm Md Saifuddullah Tutul 👋
-I'm a front-end developer passionate about crafting beautiful websites and web applications. My expertise includes HTML, CSS, JavaScript, React, Node.js, and MongoDB.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tutulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="tutulhaque" /> </p>
 
-### 🌐 Connect with Me
-- [Website](https://tutulhaque.me/)
-- [LinkedIn](https://www.linkedin.com/in/tutul-haque/)
-- [Facebook](https://www.facebook.com/sdtutulctg/)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tutulhaque" alt="tutulhaque" /></a> </p>
 
-### 💼 Current Work
-I specialize in creating visually stunning websites and robust web applications using a variety of technologies including HTML, CSS, Tailwind, React, MongoDB, JavaScript, Express, and Node.js.
+- 🔭 I’m currently working on **Courier Project**
 
-### 🔧 Technologies I Work With
-HTML, CSS, Tailwind, React, MongoDB, JavaScript, Express, Node.js
+- 🌱 I’m currently learning **NextJS**
 
-### 📈 GitHub Stats
-<!-- Add your GitHub stats here -->
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/yourusername)
+- 👨‍💻 All of my projects are available at [https://tutulhaque.me/](https://tutulhaque.me/)
 
-### 🔝 Pinned Projects
-Here are some of my highlighted projects
+- 💬 Ask me about **HTML, CSS, React, Node, WordPress**
+
+- 📫 How to reach me **sdtutulctg@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/tutul-haque/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tutul-haque/" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/sdtutulctg/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sdtutulctg/" height="30" width="40" />
+  </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <!-- Add more icons for other tools and languages -->
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tutulhaque&show_icons=true&locale=en&layout=compact" alt="tutulhaque" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tutulhaque&show_icons=true&locale=en" alt="tutulhaque" /></p>
