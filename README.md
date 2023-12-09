@@ -1,19 +1,22 @@
+<!-- Your Banner -->
+[![Banner](https://tutulhaque.me/wp-content/uploads/2023/12/tutul-banner.png)](https://tutulhaque.me/)
+
 <h1 align="center">Hi 👋, I'm Md Saifuddullah Tutul</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Passionate Frontend Developer | Crafting Digital Experiences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tutulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="tutulhaque" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tutulhaque" alt="tutulhaque" /></a> </p>
 
-- 🔭 I’m currently working on **Courier Project**
+- 🔭 Currently working on **Crafting immersive web experiences**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 Learning and Implementing **NextJS** for better frontend development
 
-- 👨‍💻 All of my projects are available at [https://tutulhaque.me/](https://tutulhaque.me/)
+- 👨‍💻 All projects available at [https://tutulhaque.me/](https://tutulhaque.me/)
 
-- 💬 Ask me about **HTML, CSS, React, Node, WordPress**
+- 💬 Let's discuss about **HTML, CSS, React, Node, WordPress**
 
-- 📫 How to reach me **sdtutulctg@gmail.com**
+- 📫 Reach me at **sdtutulctg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
