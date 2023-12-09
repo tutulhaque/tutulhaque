@@ -31,4 +31,4 @@
 [![](https://visitcount.itsvg.in/api?id=amajaying&icon=4&color=12)](https://visitcount.itsvg.in)
 <!-- Footer -->
 
-<img src="https://github.com/amajaying/amajaying/blob/main/Footer.jpg">
+<img src="https://tutulhaque.me/wp-content/uploads/2023/12/Footer.jpg">
