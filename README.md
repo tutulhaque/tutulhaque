@@ -13,7 +13,7 @@
 <!-- My Social Handles -->
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/amajaying1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amajaying)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sdtutulctg/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tutul-haque)
 <br>
 <!-- Languages and Tools I use  -->
 # 💻 Tech Stack:
@@ -28,7 +28,7 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=amajaying&icon=4&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=tutulhaque&icon=4&color=12)](https://visitcount.itsvg.in)
 <!-- Footer -->
 
 <img src="https://tutulhaque.me/wp-content/uploads/2023/12/Footer.jpg">
