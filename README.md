@@ -14,7 +14,7 @@
 <img align="right" alt="Coding" width="400" src="https://tutulhaque.me/wp-content/uploads/2023/12/side.gif">
 <!-- My Details -->
 <h2>More About Me:<img src="https://camo.githubusercontent.com/c70e68d2c6c53fc82d454a10671f340528b0c1f1c03467d8ed2cbb4113ee5105/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f5a474870577a644f456b4d4b74774c7164632f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" height="40px" data-canonical-src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></h2>
-<p>🌐: Front-End React Developer<br>👨‍💻: Passionate Frontend Developer <br>💗: Creating Engaging Digital Experiences <br>🏫: CSE Graduate<br>📫: <b>sdtutulctg@gmail.com</b><br>👀: I am looking to contribute in <b>Open Source Projects.</b><br>⚡ Fun fact? <b>I am tutulhaque! ;)</b></p><br>
+<p>🌐: Front-End React Developer<br>👨‍💻: Passionate Frontend Developer <br>💗: Creating Engaging Digital Experiences <br>🏫: CSE Graduate<br>📫: <b>sdtutulctg@gmail.com</b><br>👀: I am looking to contribute in <b>Open Source Projects.
 
 <!-- Pinned Projects -->
 ## Best Projects 📌
@@ -31,11 +31,6 @@
 <!-- Languages and Tools I use  -->
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tutulhaque&sort=DESC&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
 
 [![](https://visitcount.itsvg.in/api?id=tutulhaque&icon=4&color=12)](https://visitcount.itsvg.in)
