@@ -17,7 +17,7 @@
 <p>🌐: Front-End React Developer<br>👨‍💻: Passionate Frontend Developer <br>💗: Creating Engaging Digital Experiences <br>🏫: CSE Graduate<br>📫: <b>sdtutulctg@gmail.com</b><br>👀: I am looking to contribute in <b>Open Source Projects.
 
 <!-- Pinned Projects -->
-## Best Projects 📌
+## Recent Projects 📌
 
 [![Food and Restaurant Client](https://github-readme-stats.vercel.app/api/pin/?username=tutulhaque&repo=food-and-restaurent-client&theme=dark)](https://github.com/tutulhaque/food-and-restaurent-client)
 [![Courier Project Client](https://github-readme-stats.vercel.app/api/pin/?username=tutulhaque&repo=courier-project-client&theme=dark)](https://github.com/tutulhaque/courier-project-client)
