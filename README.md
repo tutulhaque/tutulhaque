@@ -13,7 +13,7 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://tutulhaque.website/wp-content/uploads/2023/12/side.gif">
 <!-- My Details -->
-<h2>More About Me:<img src="https://camo.githubusercontent.com/c70e68d2c6c53fc82d454a10671f340528b0c1f1c03467d8ed2cbb4113ee5105/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f5a474870577a644f456b4d4b74774c7164632f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" height="40px" data-canonical-src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></h2>
+<h2>More About Me:</h2>
 <p>🌐: Front-End React Developer<br>👨‍💻: Passionate Frontend Developer <br>💗: Creating Engaging Digital Experiences <br>🏫: CSE Graduate<br>📫: <b>sdtutulctg@gmail.com</b><br>👀: I am looking to contribute in <b>Open Source Projects.
 
 <!-- Pinned Projects -->
