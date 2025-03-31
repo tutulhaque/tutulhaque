@@ -11,7 +11,6 @@
 
 <hr>
 <br>
-<img align="right" alt="Coding" width="300" src="https://tutulhaque.website/wp-content/uploads/2023/12/side.gif">
 <!-- My Details -->
 <h2>More About Me:</h2>
 <p>🌐: Front-End React Developer<br>👨‍💻: Passionate Frontend Developer <br>💗: Creating Engaging Digital Experiences <br>🏫: CSE Graduate<br>📫: <b>sdtutulctg@gmail.com</b><br>👀: I am looking to contribute in <b>Open Source Projects.
