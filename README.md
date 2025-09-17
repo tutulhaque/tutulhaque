@@ -21,7 +21,6 @@
 ## 🌐 Badges:
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/quality_gate?project=tutulhaque_rest-countries)](https://sonarcloud.io/summary/overall?id=tutulhaque_rest-countries&branch=main)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=tutulhaque_rest-countries&metric=coverage)](https://sonarcloud.io/summary/overall?id=tutulhaque_rest-countries&branch=main)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=tutulhaque_rest-countries&metric=sqale_rating)](https://sonarcloud.io/summary/overall?id=tutulhaque_rest-countries&branch=main)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=tutulhaque_rest-countries&metric=reliability_rating)](https://sonarcloud.io/summary/overall?id=tutulhaque_rest-countries&branch=main)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=tutulhaque_rest-countries&metric=security_rating)](https://sonarcloud.io/summary/overall?id=tutulhaque_rest-countries&branch=main)
 
