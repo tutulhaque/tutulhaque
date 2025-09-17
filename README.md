@@ -17,6 +17,15 @@
 [![Courier Project Client](https://github-readme-stats.vercel.app/api/pin/?username=tutulhaque&repo=courier-project-client&theme=dark)](https://github.com/tutulhaque/courier-project-client)
 [![Fashion Apparel Client](https://github-readme-stats.vercel.app/api/pin/?username=tutulhaque&repo=Fashion-apparel-client&theme=dark)](https://github.com/tutulhaque/Fashion-apparel-client)
 
+<!-- Badges -->
+## 🌐 Badges:
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/quality_gate?project=tutulhaque_rest-countries)](https://sonarcloud.io/summary/overall?id=tutulhaque_rest-countries&branch=main)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=tutulhaque_rest-countries&metric=coverage)](https://sonarcloud.io/summary/overall?id=tutulhaque_rest-countries&branch=main)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=tutulhaque_rest-countries&metric=sqale_rating)](https://sonarcloud.io/summary/overall?id=tutulhaque_rest-countries&branch=main)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=tutulhaque_rest-countries&metric=reliability_rating)](https://sonarcloud.io/summary/overall?id=tutulhaque_rest-countries&branch=main)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=tutulhaque_rest-countries&metric=security_rating)](https://sonarcloud.io/summary/overall?id=tutulhaque_rest-countries&branch=main)
+
+
 <!-- My Social Handles -->
 
 ## 🌐 Socials:
