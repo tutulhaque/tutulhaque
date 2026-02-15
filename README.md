@@ -13,9 +13,9 @@
 
 ## Recent Projects 📌
 
-[![Food and Restaurant Client](https://github-readme-stats.vercel.app/api/pin/?username=tutulhaque&repo=food-and-restaurent-client&theme=dark)](https://github.com/tutulhaque/food-and-restaurent-client)
-[![Courier Project Client](https://github-readme-stats.vercel.app/api/pin/?username=tutulhaque&repo=courier-project-client&theme=dark)](https://github.com/tutulhaque/courier-project-client)
-[![Fashion Apparel Client](https://github-readme-stats.vercel.app/api/pin/?username=tutulhaque&repo=Fashion-apparel-client&theme=dark)](https://github.com/tutulhaque/Fashion-apparel-client)
+- 🍽️ [Food & Restaurant Client](https://github.com/tutulhaque/food-and-restaurent-client)
+- 🌐 [Live Projects Portfolio](https://tutulhaque.website/#project)
+- 📦 [Parcel Delivery Client](https://github.com/tutulhaque/parcel-delivery-frontend)
 
 <!-- Badges -->
 ## 🌐 Badges:
